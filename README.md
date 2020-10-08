@@ -1,1 +1,2 @@
-Here will be the information about every update
+Simple webpage that applies filter to an uploaded image. Server is running on Heroku
+
